@@ -2,7 +2,7 @@ const fs = require('fs');
 const util = require('util');
 const path = require('path');
 
-var diretorio = './Script';
+var diretorio = './pasta-de-destino-dos-arquivos';
 var months = {
 	0: 'Janeiro',
 	1: 'Fevereiro',
