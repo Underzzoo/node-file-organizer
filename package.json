@@ -1,0 +1,32 @@
+{
+  "name": "nodescript",
+  "version": "1.0.0",
+  "description": "*Isso não foi feito por um profissional, muito menos é algo profissional, foi apenas uma brincadeira que deu certo*.\r Aceito pull request para quem quiser melhorar essa bagaça drasticamente.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Underzzoo/nodeScript.git"
+  },
+  "keywords": [
+    "photo",
+    "organizer",
+    "picture",
+    "pic",
+    "photos",
+    "help",
+    "file",
+    "tree"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Underzzoo/nodeScript/issues"
+  },
+  "homepage": "https://github.com/Underzzoo/nodeScript#readme",
+  "dependencies": {
+    "yargs": "^5.0.0"
+  }
+}
