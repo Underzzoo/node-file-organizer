@@ -1,4 +1,4 @@
-# nodeScript
+# Node File Organizer (nodeScript)
 
 *Isso não foi feito por um profissional, muito menos é algo profissional, foi apenas uma brincadeira que deu certo*.
 Aceito pull request para quem quiser melhorar essa bagaça drasticamente.
